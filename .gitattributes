@@ -1,0 +1,2 @@
+exp_data/* filter=lfs diff=lfs merge=lfs -text
+figures/* filter=lfs diff=lfs merge=lfs -text
