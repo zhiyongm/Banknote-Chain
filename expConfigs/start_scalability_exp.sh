@@ -1,0 +1,9 @@
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_1_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_4_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_8_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_12_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_16_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_20_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_24_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_28_core.json
+./blockcooker-linux-amd64 -c expConfigs/scalability/scalability_1w_32_core.json
