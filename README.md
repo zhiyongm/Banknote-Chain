@@ -45,7 +45,7 @@ Modify all configuration json files in the expConfigs folder according to your s
 1. Run `` blockcooker-yourCPUarch-yourOS -c scalability_1w_PLEDGERNUMBER_core.json`` in sequence.
 
 
-## Step 6: Draw the experiment figures.
+## Step 8: Draw the experiment figures.
 Launch at ``expDataAndFigsCode`` folder, open ``draw_banknote_circulation.ipynb`` and ``,draw_performance.ipynb``, edit the path of output experiment dataset, and run them.
 
 We also present the experiment data of the paper at ``expDataAndFigsCode`` folder
